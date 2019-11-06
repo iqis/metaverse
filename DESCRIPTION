@@ -1,5 +1,5 @@
 Package: metaverse
-Title: What the Package Does (One Line, Title Case)
+Title: Suite of Popular Packages
 Version: 0.0.0.9000
 Authors@R: c(
   person("Siqi", "Zhang", 
@@ -7,7 +7,7 @@ Authors@R: c(
     comment = c(ORCID = "0000-0003-2617-5776")),
   person()
   )
-Description: What the package does (one paragraph).
+Description: Many popular CRAN packages together. 
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
